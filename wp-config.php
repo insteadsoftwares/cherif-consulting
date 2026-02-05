@@ -25,11 +25,13 @@ define( 'WP_CACHE', true );
 define( 'DB_NAME', 'insteads_wp58727' );
 
 /** MySQL database username */
-define( 'DB_USER', 'insteads_wp58727' );
+define( 'DB_USER', 'insteads_cherifconseil' );
+// define( 'DB_USER', 'insteads_wp58727' );
 // define( 'DB_USER', 'root' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', '-2mpS8VJ-4' );
+define( 'DB_PASSWORD', 'J!3wAyr=[naV#p^%' );
+// define( 'DB_PASSWORD', '-2mpS8VJ-4' );
 // define( 'DB_PASSWORD', '' );
 
 /** MySQL hostname */
