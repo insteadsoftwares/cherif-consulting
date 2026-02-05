@@ -1,0 +1,9 @@
+# Groupe 1
+Agent utilisateur: Googlebot
+Interdit: / nogooglebot /
+
+# Groupe 2
+Agent utilisateur: *
+Autoriser: /
+
+Plan du site: http://www.cherif-consulting.com/sitemap.xml

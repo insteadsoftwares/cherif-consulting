@@ -1,0 +1,22 @@
+/*
+
+    The following CSS codes are created by the YellowPencil plugin.
+    https://yellowpencil.waspthemes.com/
+
+
+    T A B L E   O F   C O N T E N T S
+    ........................................................................
+
+    01. "Home 3" Page
+
+*/
+
+
+
+/*-----------------------------------------------*/
+/*  "Home 3" Page                                */
+/*-----------------------------------------------*/
+body.page-id-143 #contact .hc-cmp-column iframe{
+	display:inline-block;
+	-webkit-transform:translatex(0px) translatey(8px);	-ms-transform:translatex(0px) translatey(8px);	transform:translatex(0px) translatey(8px);
+}
